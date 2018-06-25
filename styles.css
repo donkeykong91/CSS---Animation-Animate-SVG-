@@ -11,3 +11,8 @@
   0% {transform: scaleX(0.1);}
   100% {transform: scale(1);}
 }
+
+@keyframes changeCol {
+  0%, 30% (fill: red;)
+  40%, 100% (fill: #72CC58; )
+} 
